@@ -4,7 +4,7 @@
   <img src="./assets/app-icon.png" alt="App Icon" width="120">
 </div>
 
-[![Changelog](https://img.shields.io/badge/changelog-available-blue)]
+[![Changelog](https://img.shields.io/badge/changelog-available-blue)](CHANGELOG.md)
 
 Habitsss is a modern, native Android habit tracking app focused on streaks, analytics, and long-term consistency.
 
