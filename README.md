@@ -1,7 +1,7 @@
 # Habitsss – Habit Tracker (Android)
 
 <div align="center">
-![App Icon](assets/app-icon.png)
+  <img src="./assets/app-icon.png" alt="App Icon" width="120">
 </div>
 
 Habitsss is a modern, native Android habit tracking app focused on streaks, analytics, and long-term consistency.
@@ -40,20 +40,9 @@ If you find issues, please open one in the **Issues** tab.
 
 ## 📸 Screenshots
 
-<div style="display: flex; justify-content: center;">
-  <div style="text-align: center; margin: 0 10px;">
-    ![Onboarding](screenshots/onboarding-image.png)
-    <p>Onboarding</p>
-  </div>
-  <div style="text-align: center; margin: 0 10px;">
-    ![Home](screenshots/home-view.png)
-    <p>Home View</p>
-  </div>
-  <div style="text-align: center; margin: 0 10px;">
-    ![Habit View](screenshots/habit-view.png)
-    <p>Habit View</p>
-  </div>
-</div>
+| Onboarding | Home View | Habit View |
+|:---:|:---:|:---:|
+| <img src="./screenshots/onboarding-image.png" alt="Onboarding" width="300"> | <img src="./screenshots/home-view.png" alt="Home View" width="300"> | <img src="./screenshots/habit-view.png" alt="Habit View" width="300"> |
 
 ---
 
@@ -119,3 +108,4 @@ Feedback is welcome.
 
 All rights reserved.  
 The application is free to use, but the source code is not public.
+
