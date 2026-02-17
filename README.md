@@ -4,6 +4,8 @@
   <img src="./assets/app-icon.png" alt="App Icon" width="120">
 </div>
 
+[![Changelog](https://img.shields.io/badge/changelog-available-blue)]
+
 Habitsss is a modern, native Android habit tracking app focused on streaks, analytics, and long-term consistency.
 
 Originally launched on Google Play in November 2024, Habitsss reached 350+ active users and included subscription-based features before the Play Store account was suspended due to new identity verification requirements.
