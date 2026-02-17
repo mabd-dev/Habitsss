@@ -1,5 +1,9 @@
 # Habitsss – Habit Tracker (Android)
 
+<div align="center">
+![App Icon](assets/app-icon.png)
+</div>
+
 Habitsss is a modern, native Android habit tracking app focused on streaks, analytics, and long-term consistency.
 
 Originally launched on Google Play in November 2024, Habitsss reached 350+ active users and included subscription-based features before the Play Store account was suspended due to new identity verification requirements.
@@ -36,9 +40,20 @@ If you find issues, please open one in the **Issues** tab.
 
 ## 📸 Screenshots
 
-
-`![Onboarding](screenshots/onboarding-image.png) ![Home](screenshots/home-view.png) ![Habit View](screenshots/habit-view.png)`
-
+<div style="display: flex; justify-content: center;">
+  <div style="text-align: center; margin: 0 10px;">
+    ![Onboarding](screenshots/onboarding-image.png)
+    <p>Onboarding</p>
+  </div>
+  <div style="text-align: center; margin: 0 10px;">
+    ![Home](screenshots/home-view.png)
+    <p>Home View</p>
+  </div>
+  <div style="text-align: center; margin: 0 10px;">
+    ![Habit View](screenshots/habit-view.png)
+    <p>Habit View</p>
+  </div>
+</div>
 
 ---
 
