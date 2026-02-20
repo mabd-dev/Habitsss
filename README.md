@@ -48,6 +48,24 @@ If you find issues, please open one in the **Issues** tab.
 
 ---
 
+## Features Demo
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./media/onboarding-demo.mp4" alt="Feature 1 Demo" width="300">
+    </td>
+    <td width="50%">
+      <h3>Onboarding</h3>
+      <ul>
+        <li>Questions to understand user-base and plan targeted ad campaign</li>
+        <li>Step-By-Step board creation for first time user</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🏗 Architecture & Engineering Highlights
 
 Habitsss was built as a production-grade application using:
