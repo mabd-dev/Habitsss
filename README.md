@@ -52,7 +52,7 @@ If you find issues, please open one in the **Issues** tab.
 <table>
   <tr>
     <td width="50%">
-      <img src="./media/onboarding-demo.mp4" alt="Feature 1 Demo" width="300">
+      <video src="./media/onboarding-demo.mp4" width="300" autoplay loop muted></video>
     </td>
     <td width="50%">
       <h3>Onboarding</h3>
