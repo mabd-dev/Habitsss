@@ -52,7 +52,7 @@ If you find issues, please open one in the **Issues** tab.
 <table>
   <tr>
     <td width="50%">
-      <video src="https://github.com/user-attachments/assets/b8f21183-4e57-415a-b540-5d88507acd10" width="300" autoplay loop muted></video>
+      <img src="./media/thumbnails/onboarding.jpg" alt="Onboarding Demo" width="300">
     </td>
     <td width="50%">
       <h3>Onboarding</h3>
@@ -74,7 +74,37 @@ If you find issues, please open one in the **Issues** tab.
       </ul>
     </td>
     <td width="50%">
-      <video src="https://github.com/user-attachments/assets/ba82b4b9-aec1-401f-a304-05680083f9b9" width="300" muted></video>
+      <img src="./media/thumbnails/boards.jpg" alt="Onboarding Demo" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="./media/thumbnails/board-view.jpg" alt="Onboarding Demo" width="300">
+    </td>
+    <td width="50%">
+      <h3>Board Editor</h3>
+      <ul>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Analytics</h3>
+      <ul>
+      </ul>
+    </td>
+    <td width="50%">
+      <img src="./media/thumbnails/analytics.jpg" alt="Onboarding Demo" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="./media/thumbnails/settings.jpg" alt="Onboarding Demo" width="300">
+    </td>
+    <td width="50%">
+      <h3>Settings</h3>
+      <ul>
+      </ul>
     </td>
   </tr>
 </table>
