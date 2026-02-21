@@ -62,6 +62,21 @@ If you find issues, please open one in the **Issues** tab.
       </ul>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>Boards</h3>
+      <ul>
+        <li>Grid/List boards in home screen</li>
+        <li>Reorder boards</li>
+        <li>Archive boards</li>
+        <li>Log amount for current day, or for a specific day at a specific time</li>
+        <li>Add a note to your log</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <video src="https://github.com/user-attachments/assets/b8f21183-4e57-415a-b540-5d88507acd10" width="300" muted></video>
+    </td>
+  </tr>
 </table>
 
 ---
