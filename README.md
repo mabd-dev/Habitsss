@@ -52,7 +52,7 @@ If you find issues, please open one in the **Issues** tab.
 <table>
   <tr>
     <td width="50%">
-      <video src="./media/onboarding-demo.mp4" width="300" autoplay loop muted></video>
+      <video src="https://github.com/user-attachments/assets/b8f21183-4e57-415a-b540-5d88507acd10" width="300" autoplay loop muted></video>
     </td>
     <td width="50%">
       <h3>Onboarding</h3>
@@ -128,4 +128,8 @@ Feedback is welcome.
 
 All rights reserved.  
 The application is free to use, but the source code is not public.
+
+
+
+
 
