@@ -74,7 +74,7 @@ If you find issues, please open one in the **Issues** tab.
       </ul>
     </td>
     <td width="50%">
-      <video src="https://github.com/user-attachments/assets/b8f21183-4e57-415a-b540-5d88507acd10" width="300" muted></video>
+      <video src="https://github.com/user-attachments/assets/ba82b4b9-aec1-401f-a304-05680083f9b9" width="300" muted></video>
     </td>
   </tr>
 </table>
@@ -143,6 +143,9 @@ Feedback is welcome.
 
 All rights reserved.  
 The application is free to use, but the source code is not public.
+
+
+
 
 
 
