@@ -60,7 +60,7 @@ If you find issues, please open one in the **Issues** tab.
         <li>Questions to understand user-base and plan targeted ad campaign</li>
         <li>Step-By-Step board creation for first time user</li>
       </ul>
-      <a href="./media/onboarding.mp4">Video Demo</a>
+      <a href="./docs/demos/onboarding.md">Video Demo</a>
     </td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ If you find issues, please open one in the **Issues** tab.
         <li>Log amount for current day, or for a specific day at a specific time</li>
         <li>Add a note to your log</li>
       </ul>
-      <a href="./media/boards-view.mp4">Video Demo</a>
+      <a href="./docs/demos/boards.md">Video Demo</a>
     </td>
     <td width="50%">
       <img src="./media/thumbnails/boards.jpg" alt="Boards View" width="300">
@@ -87,7 +87,7 @@ If you find issues, please open one in the **Issues** tab.
       <h3>Board Editor</h3>
       <ul>
       </ul>
-      <a href="./media/board-editor.mp4">Video Demo</a>
+      <a href="./docs/demos/board-editor.md">Video Demo</a>
     </td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@ If you find issues, please open one in the **Issues** tab.
       <h3>Analytics</h3>
       <ul>
       </ul>
-      <a href="./media/board-analytics.mp4">Video Demo</a>
+      <a href="./docs/media/analytics.md">Video Demo</a>
     </td>
     <td width="50%">
       <img src="./media/thumbnails/analytics.jpg" alt="Analytics" width="300">
@@ -109,7 +109,7 @@ If you find issues, please open one in the **Issues** tab.
       <h3>Settings</h3>
       <ul>
       </ul>
-      <a href="./media/settings.mp4">Video Demo</a>
+      <a href="./docs/media/settings.md">Video Demo</a>
     </td>
   </tr>
 </table>
