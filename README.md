@@ -109,7 +109,7 @@ If you find issues, please open one in the **Issues** tab.
       <h3>Widget</h3>
       <ul>
       </ul>
-      <a href="./docs/demos/widget.md">Video Demo</a>
+      <a href="./docs/demos/widgets.md">Video Demo</a>
     </td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ If you find issues, please open one in the **Issues** tab.
       <h3>Settings</h3>
       <ul>
       </ul>
-      <a href="./media/thumbnails/settings.jpg">Video Demo</a>
+      <a href="./docs/demos/settings.md">Video Demo</a>
     </td>
     <td width="50%">
       <img src="./media/thumbnails/settings.jpg" alt="Settings" width="300">
