@@ -48,24 +48,24 @@ If you find issues, please open one in the **Issues** tab.
     </td>
     <td width="50%">
       <h3>Onboarding</h3>
-      <ul>
-        <li>Questions to understand user-base and plan targeted ad campaign</li>
-        <li>Step-By-Step board creation for first time user</li>
-      </ul>
-      <a href="./docs/demos/onboarding.md">Video Demo</a>
+        <ul>
+          <li>Personalized onboarding questions to better understand user needs</li>
+          <li>Guided step-by-step board creation for first-time users</li>
+        </ul>
+      <a href="./docs/demos/onboarding.md"><strong>🎥 Watch demo</strong></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>Boards</h3>
-      <ul>
-        <li>Grid/List boards in home screen</li>
-        <li>Reorder boards</li>
-        <li>Archive boards</li>
-        <li>Log amount for current day, or for a specific day at a specific time</li>
-        <li>Add a note to your log</li>
-      </ul>
-      <a href="./docs/demos/boards.md">Video Demo</a>
+        <ul>
+          <li>Switch between grid and list layouts on the home screen</li>
+          <li>Reorder boards with drag and drop</li>
+          <li>Archive boards for later access</li>
+          <li>Log check-ins for today or for a specific date and time</li>
+          <li>Add notes to your check-ins</li>
+        </ul>
+      <a href="./docs/demos/boards.md"><strong>🎥 Watch demo</strong></a>
     </td>
     <td width="50%">
       <img src="./media/thumbnails/boards.jpg" alt="Boards View" width="300">
@@ -77,9 +77,13 @@ If you find issues, please open one in the **Issues** tab.
     </td>
     <td width="50%">
       <h3>Board Editor</h3>
-      <ul>
-      </ul>
-      <a href="./docs/demos/board-editor.md">Video Demo</a>
+        <ul>
+          <li>Edit board metadata: title and description</li>
+          <li>Customize board color using presets or a color picker (color wheel, HEX, RGB)</li>
+          <li>Configure custom unit with minimum check-in amount</li>
+          <li>Advanced reminders managements: add, edit, enable, disable, or remove</li>
+        </ul>
+      <a href="./docs/demos/board-editor.md"><strong>🎥 Watch demo</strong></a>
     </td>
   </tr>
   <tr>
