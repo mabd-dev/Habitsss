@@ -40,14 +40,6 @@ If you find issues, please open one in the **Issues** tab.
 
 ---
 
-## 📸 Screenshots
-
-| Onboarding | Home View | Habit View |
-|:---:|:---:|:---:|
-| <img src="./screenshots/onboarding-image.png" alt="Onboarding" width="300"> | <img src="./screenshots/home-view.png" alt="Home View" width="300"> | <img src="./screenshots/habit-view.png" alt="Habit View" width="300"> |
-
----
-
 ## Features Demo
 <table>
   <tr>
