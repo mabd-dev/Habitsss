@@ -106,8 +106,14 @@ If you find issues, please open one in the **Issues** tab.
   </tr>
   <tr>
     <td width="50%">
-      <h3>Settings</h3>
+      <h3>Settings & Personalization</h3>
       <ul>
+          <li>Customizable app accent color</li>
+          <li>Theme support: Light, Dark, and AMOLED modes</li>
+          <li>Archived boards management (restore or permanently delete)</li>
+          <li>Data import and export capabilities</li>
+          <li><b>Contact Support:</b> Opens email client with prefilled diagnostic information (user ID, device manufacturer, etc.)</li>
+          <li><b>Send Debug Logs:</b> Export and attach application logs for troubleshooting</li>
       </ul>
       <a href="./docs/demos/settings.md">Video Demo</a>
     </td>
