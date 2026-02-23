@@ -5,12 +5,22 @@
 </div>
 
 [![Changelog](https://img.shields.io/badge/changelog-available-blue)](CHANGELOG.md)
+![Kotlin](https://img.shields.io/badge/Kotlin-Android-blue)
+![Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-brightgreen)
+![Architecture](https://img.shields.io/badge/Architecture-MVVM-orange)
 
-Habitsss is a modern, native Android habit tracking app focused on streaks, analytics, and long-term consistency.
+<p align="center">
+  <img src="./media/thumbnails/boards.jpg" width="160">
+  <img src="./media/thumbnails/analytics.jpg" width="160">
+  <img src="./media/thumbnails/widget.jpg" width="160">
+  <img src="./media/thumbnails/settings.jpg" width="160">
+</p>
 
-Originally launched on Google Play in November 2024, Habitsss reached 350+ active users and included subscription-based features before the Play Store account was suspended due to new identity verification requirements.
+Habitsss is a modern native Android habit tracker focused on streaks, analytics, and long-term consistency.
 
-The app is now distributed directly via GitHub Releases.
+Originally launched on Google Play in November 2024, the app reached 350+ active users and included subscription-based features before the Play Store account was suspended due to updated identity verification requirements.
+
+Habitsss is now distributed independently via GitHub Releases.
 
 > This repository contains release builds and documentation only.  
 > The source code remains private.
@@ -81,7 +91,7 @@ If you find issues, please open one in the **Issues** tab.
           <li>Edit board metadata: title and description</li>
           <li>Customize board color using presets or a color picker (color wheel, HEX, RGB)</li>
           <li>Configure custom unit with minimum check-in amount</li>
-          <li>Advanced reminders managements: add, edit, enable, disable, or remove</li>
+          <li>Advanced reminders management: add, edit, enable, disable, or remove</li>
         </ul>
       <a href="./docs/demos/board-editor.md"><strong>🎥 Watch demo</strong></a>
     </td>
@@ -103,7 +113,7 @@ If you find issues, please open one in the **Issues** tab.
   </tr>
   <tr>
     <td width="50%">
-      <img src="./media/thumbnails/widget.jpg" alt="Settings" width="300">
+      <img src="./media/thumbnails/widget.jpg" alt="Widgets" width="300">
     </td>
     <td width="50%">
       <h3>Widget</h3>
@@ -118,7 +128,7 @@ If you find issues, please open one in the **Issues** tab.
   </tr>
   <tr>
     <td width="50%">
-      <h3>⚙️ Settings And Personalization</h3>
+      <h3>⚙️ Settings & Personalization</h3>
       <ul>
           <li>Customizable app accent color</li>
           <li>Theme support: Light, Dark, and AMOLED modes</li>
@@ -144,7 +154,7 @@ Habitsss was built as a production-grade application using:
 - **Jetpack Compose**
 - **MVVM**
 - **Multi-module architecture**
-- **Custom Dependency injection method**
+- **Custom dependency injection method**
 - **Room database**
 - **GitHub Actions CI**
 - Modular feature-based structure
