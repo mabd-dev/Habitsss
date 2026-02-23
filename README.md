@@ -20,7 +20,7 @@ Habitsss is a modern native Android habit tracker focused on streaks, analytics,
 
 Originally launched on Google Play in November 2024, the app reached 350+ active users and included subscription-based features before the Play Store account was suspended due to updated identity verification requirements.
 
-Habitsss is now distributed independently via GitHub Releases.
+Habitsss is now distributed independently via GitHub Releases & 100% free to use.
 
 > This repository contains release builds and documentation only.  
 > The source code remains private.
@@ -30,9 +30,10 @@ Habitsss is now distributed independently via GitHub Releases.
 ## 📥 Download
 
 👉 **Download the latest APK**
+
+**Requirements**
 - Minimum Android version: API 28+
 - Architecture: Universal APK
-- Signed release build
 - 100% free to use
 
 If you find issues, please open one in the **Issues** tab.

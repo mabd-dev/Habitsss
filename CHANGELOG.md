@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 This project follows Semantic Versioning.
 
+# 0.6.x - Publishing on Github Releases
+
+## 0.6.0 - 2026-02-23
+
+### 🔄 Updated
+
+- Improved settings screen UI
+- Internal Changes
+
+
+### 🛠 Fixed
+
+- HomeScreen error handling: reset loading state when error occur.
+
 
 # 0.5.x – Architecture Refinement & UX Polish (Mid–Late 2025)
 
