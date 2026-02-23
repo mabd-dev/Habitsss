@@ -4,7 +4,8 @@
   <img src="./assets/app-icon.png" alt="App Icon" width="120">
 </div>
 
-[![Changelog](https://img.shields.io/badge/changelog-available-blue)](CHANGELOG.md)
+[![Download](https://img.shields.io/badge/download-latest%20apk-blue)](../../releases/latest)
+[![Changelog](https://img.shields.io/badge/changelog-available-green)](CHANGELOG.md)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Android-blue)
 ![Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-brightgreen)
 ![Architecture](https://img.shields.io/badge/Architecture-MVVM-orange)
@@ -29,7 +30,7 @@ Habitsss is now distributed independently via GitHub Releases & 100% free to use
 
 ## 📥 Download
 
-👉 **Download the latest APK**
+👉 [**Download the latest APK**](../../releases/latest)
 
 **Requirements**
 - Minimum Android version: API 28+
