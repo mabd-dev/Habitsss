@@ -84,10 +84,14 @@ If you find issues, please open one in the **Issues** tab.
   </tr>
   <tr>
     <td width="50%">
-      <h3>Analytics</h3>
-      <ul>
-      </ul>
-      <a href="./docs/demos/analytics.md">Video Demo</a>
+      <h3>📊 Analytics</h3>
+        <ul>
+          <li>Line chart showing current month progress</li>
+          <li>Key statistics: best day, max per day, average per day, consistency, and more</li>
+          <li>Current vs previous month comparison chart</li>
+          <li>Interactive line chart with custom date range</li>
+        </ul>
+      <a href="./docs/demos/analytics.md"><strong>🎥 Watch demo</strong></a>
     </td>
     <td width="50%">
       <img src="./media/thumbnails/analytics.jpg" alt="Analytics" width="300">
@@ -99,14 +103,18 @@ If you find issues, please open one in the **Issues** tab.
     </td>
     <td width="50%">
       <h3>Widget</h3>
-      <ul>
-      </ul>
-      <a href="./docs/demos/widgets.md">Video Demo</a>
+        <ul>
+          <li>View boards directly from the widget</li>
+          <li>Add check-ins without opening the app</li>
+          <li>Tap a board to open its dedicated screen</li>
+          <li>Use the Home button to quickly launch the app</li>
+        </ul>
+      <a href="./docs/demos/widgets.md"><strong>🎥 Watch demo</strong></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Settings & Personalization</h3>
+      <h3>⚙️ Settings And Personalization</h3>
       <ul>
           <li>Customizable app accent color</li>
           <li>Theme support: Light, Dark, and AMOLED modes</li>
@@ -115,7 +123,7 @@ If you find issues, please open one in the **Issues** tab.
           <li><b>Contact Support:</b> Opens email client with prefilled diagnostic information (user ID, device manufacturer, etc.)</li>
           <li><b>Send Debug Logs:</b> Export and attach application logs for troubleshooting</li>
       </ul>
-      <a href="./docs/demos/settings.md">Video Demo</a>
+      <a href="./docs/demos/settings.md"><strong>🎥 Watch demo</strong></a>
     </td>
     <td width="50%">
       <img src="./media/thumbnails/settings.jpg" alt="Settings" width="300">
