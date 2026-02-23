@@ -39,6 +39,15 @@ Habitsss is now distributed independently via GitHub Releases & 100% free to use
 
 If you find issues, please open one in the **Issues** tab.
 
+**🔄 Stay Updated Automatically With Obtainium** (Recommended)
+
+Obtainium is a free, open-source app that tracks GitHub releases and notifies you when updates are available.
+
+- Install Obtainium from its [GitHub Releases](https://github.com/ImranR98/Obtainium/releases) page or from [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.imranr.obtainium).
+- Open Obtainium and tap Add App.
+- Paste this repository's URL and tap Add.
+- Obtainium will track new releases and notify you when an update is ready.
+
 ---
 
 ## ✨ Features
