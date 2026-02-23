@@ -103,13 +103,24 @@ If you find issues, please open one in the **Issues** tab.
   </tr>
   <tr>
     <td width="50%">
-      <img src="./media/thumbnails/settings.jpg" alt="Settings" width="300">
+      <img src="./media/thumbnails/widget.jpg" alt="Settings" width="300">
     </td>
+    <td width="50%">
+      <h3>Widget</h3>
+      <ul>
+      </ul>
+      <a href="./docs/demos/widget.md">Video Demo</a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Settings</h3>
       <ul>
       </ul>
-      <a href="./docs/media/settings.md">Video Demo</a>
+      <a href="./media/thumbnails/settings.jpg">Video Demo</a>
+    </td>
+    <td width="50%">
+      <img src="./media/thumbnails/settings.jpg" alt="Settings" width="300">
     </td>
   </tr>
 </table>
