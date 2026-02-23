@@ -95,7 +95,7 @@ If you find issues, please open one in the **Issues** tab.
       <h3>Analytics</h3>
       <ul>
       </ul>
-      <a href="./docs/media/analytics.md">Video Demo</a>
+      <a href="./docs/demos/analytics.md">Video Demo</a>
     </td>
     <td width="50%">
       <img src="./media/thumbnails/analytics.jpg" alt="Analytics" width="300">
