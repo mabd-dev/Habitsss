@@ -11,7 +11,7 @@
 ![Architecture](https://img.shields.io/badge/Architecture-MVVM-orange)
 
 <p align="center">
-  <img src="./screenshots/app-showcase.png">
+  <img src="./screenshots/app-showcase.jpg">
 </p>
 
 Habitsss is a modern native Android habit tracker focused on streaks, analytics, and long-term consistency.
