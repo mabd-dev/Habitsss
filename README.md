@@ -11,10 +11,10 @@
 ![Architecture](https://img.shields.io/badge/Architecture-MVVM-orange)
 
 <p align="center">
-  <img src="./media/thumbnails/boards.jpg" width="160">
-  <img src="./media/thumbnails/analytics.jpg" width="160">
-  <img src="./media/thumbnails/widget.jpg" width="160">
-  <img src="./media/thumbnails/settings.jpg" width="160">
+  <img src="./screenshots/playstore-screen1.png" width="160">
+  <img src="./screenshots/playstore-screen2.png" width="160">
+  <img src="./screenshots/playstore-screen3.png" width="160">
+  <img src="./screenshots/playstore-screen4.png" width="160">
 </p>
 
 Habitsss is a modern native Android habit tracker focused on streaks, analytics, and long-term consistency.
