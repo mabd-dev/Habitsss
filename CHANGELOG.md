@@ -5,6 +5,18 @@ This project follows Semantic Versioning.
 
 # 0.6.x - Publishing on Github Releases
 
+## 0.6.1 - 2026-03-03
+
+### ✨ New
+
+- Show `app update` dialog in home screen
+
+
+### 🐛 Bug Fixes
+
+- Fix: home screen boards does not auto-reload after importing data
+
+
 ## 0.6.0 - 2026-02-23
 
 ### 🔄 Updated
