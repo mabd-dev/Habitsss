@@ -5,6 +5,17 @@ This project follows Semantic Versioning.
 
 # 0.6.x - Publishing on Github Releases
 
+## 0.6.2 - 2026-03-12
+
+### ✨ New
+
+- App Review: Added custom app review dialog to receive user feedback and listen to any complains 
+
+### 🔧 Updates
+
+- **BoardView Screen**: removed monthly switcher 
+
+
 ## 0.6.1 - 2026-03-03
 
 ### ✨ New
