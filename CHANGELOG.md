@@ -5,6 +5,19 @@ This project follows Semantic Versioning.
 
 # 0.6.x - Publishing on Github Releases
 
+## 0.6.3 - 2026-03-20
+
+### 🔧 Updates
+
+- **Board View**: 
+    - Added total check-in`s for each day
+    - Animate check-in deletion
+
+### 🐛 Bug Fixes
+
+- **Analytics** stats where showing data for previous month not currently selected month
+- Fix crash during onboarding when saving board for the first time
+
 ## 0.6.2 - 2026-03-12
 
 ### ✨ New
