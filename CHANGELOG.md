@@ -5,6 +5,13 @@ This project follows Semantic Versioning.
 
 # 0.6.x - Publishing on Github Releases
 
+## 0.6.4 - 2026-05-01
+
+### 🔧 Updates
+
+- The "Bring Back" button on the archived boards screen has been renamed to "Restore".
+- Google sign-in functionality is now available again.
+
 ## 0.6.3 - 2026-03-20
 
 ### 🔧 Updates
