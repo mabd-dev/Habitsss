@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 This project follows Semantic Versioning.
 
+# 0.7.x - NFC Support
+
+## 0.7.0 - 2026-05-12
+
+### What's new
+
+- NFC Support
+    - **Tap to log:** tap a paired NFC card to instantly log to its board
+    - **Card management:** create, name, and pair cards to boards from Settings
+    - **Reassign cards:** already paired a card? You can reassign it to a different board
+    - **Disabled card handling:** tapping a disabled card shows a notification instead of logging silently
+    - **NFC permission handling:** the app will ask for the necessary permissions when you set up your first card
+
+
 # 0.6.x - Publishing on Github Releases
 
 ## 0.6.4 - 2026-05-01
