@@ -6,9 +6,9 @@
 
 [![Download](https://img.shields.io/badge/download-latest%20apk-blue)](../../releases/latest)
 [![Changelog](https://img.shields.io/badge/changelog-available-green)](CHANGELOG.md)
-![Kotlin](https://img.shields.io/badge/Kotlin-Android-blue)
-![Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-brightgreen)
-![Architecture](https://img.shields.io/badge/Architecture-MVVM-orange)
+<!--![Kotlin](https://img.shields.io/badge/Kotlin-Android-blue)-->
+<!--![Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-brightgreen)-->
+<!--![Architecture](https://img.shields.io/badge/Architecture-MVVM-orange)-->
 
 <p align="center">
   <img src="./screenshots/app-showcase.jpg">
