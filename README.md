@@ -16,9 +16,9 @@
 
 Habitsss is a modern native Android habit tracker focused on streaks, analytics, and long-term consistency.
 
-Originally launched on Google Play in November 2024, the app reached 350+ active users and included subscription-based features before the Play Store account was suspended due to updated identity verification requirements.
+<!-- Originally launched on Google Play in November 2024, the app reached 350+ active users and included subscription-based features before the Play Store account was suspended due to updated identity verification requirements.
 
-Habitsss is now distributed independently via GitHub Releases & 100% free to use.
+Habitsss is now distributed independently via GitHub Releases & 100% free to use. -->
 
 > This repository contains release builds and documentation only.  
 > The source code remains private.
@@ -32,7 +32,6 @@ Habitsss is now distributed independently via GitHub Releases & 100% free to use
 **Requirements**
 - Minimum Android version: API 28+
 - Architecture: Universal APK
-- 100% free to use
 
 If you find issues, please open one in the **Issues** tab.
 
@@ -52,6 +51,7 @@ Obtainium is a free, open-source app that tracks GitHub releases and notifies yo
 - 📊 Rich analytics with streak tracking and visualizations
 - 🔔 Smart reminder & notification system
 - 📆 History log with custom date filtering
+- 🔖 NFC card support: tap a card to instantly log to any board
 - 🧩 Modular architecture (built for long-term scalability)
 - 🔒 Local-first data storage
 - 🎯 Designed for long-term habit consistency
