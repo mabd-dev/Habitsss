@@ -5,6 +5,11 @@ This project follows Semantic Versioning.
 
 # 0.7.x - NFC Support
 
+## 0.7.1 - 2026-05-24
+
+- fix: crash when going back to 2025 in current vs previous month chart
+
+
 ## 0.7.0 - 2026-05-12
 
 ### What's new
