@@ -5,6 +5,14 @@ This project follows Semantic Versioning.
 
 # 0.7.x - NFC Support
 
+
+## 0.7.2 - 2026-06-12
+
+### Chagnes
+
+- Bring back monthly switcher board view screen
+- Your nfc cards now sync with cloud
+
 ## 0.7.1 - 2026-05-24
 
 - fix: crash when going back to 2025 in current vs previous month chart
