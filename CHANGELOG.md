@@ -5,6 +5,11 @@ This project follows Semantic Versioning.
 
 # 0.7.x - NFC Support
 
+## 0.7.3 - 2026-07-08
+
+### Chagnes
+
+- Added feedback system to suggest improvments, report bugs & vote for other feedbacks. To access it, go to **settings** -> **feedbacks**
 
 ## 0.7.2 - 2026-06-12
 
