@@ -5,6 +5,18 @@ This project follows Semantic Versioning.
 
 # 0.7.x - NFC Support
 
+## 0.7.4 - 2026-07-23
+
+### Chagnes
+
+- **Landscape Mode:** You can now use the app in landscape orientation. This was a popular request from our community!
+- **Upgraded Feedback System:** We've updated our feedback system (powered by Fedo) to improve how we collect and act on your suggestions.
+
+💡 Have a suggestion?
+Go to `Settings` → `Feedbacks` and let us know what you'd like to see next. Landscape mode came from feedback like yours — we'd love to hear your ideas!
+
+check out [fedo](https://getfedo.com/) project
+
 ## 0.7.3 - 2026-07-08
 
 ### Chagnes
