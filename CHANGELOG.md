@@ -7,7 +7,7 @@ This project follows Semantic Versioning.
 
 ## 0.7.4 - 2026-07-23
 
-### Chagnes
+### Changes
 
 - **Landscape Mode:** You can now use the app in landscape orientation. This was a popular request from our community!
 - **Upgraded Feedback System:** We've updated our feedback system (powered by Fedo) to improve how we collect and act on your suggestions.
@@ -19,13 +19,13 @@ check out [fedo](https://getfedo.com/) project
 
 ## 0.7.3 - 2026-07-08
 
-### Chagnes
+### Changes
 
 - Added feedback system to suggest improvments, report bugs & vote for other feedbacks. To access it, go to **settings** -> **feedbacks**
 
 ## 0.7.2 - 2026-06-12
 
-### Chagnes
+### Changes
 
 - Bring back monthly switcher board view screen
 - Your nfc cards now sync with cloud
