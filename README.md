@@ -27,6 +27,14 @@ Habitsss is now distributed independently via GitHub Releases & 100% free to use
 
 ## 📥 Download
 
+### Google Play
+
+<a href='https://play.google.com/store/apps/details?id=com.mabd.habittracker'>
+  <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200"/>
+</a>
+
+### Direct APK
+
 👉 [**Download the latest APK**](../../releases/latest)
 
 **Requirements**
@@ -169,22 +177,6 @@ Habitsss was built as a production-grade application using:
 - Clean separation between domain, data, and presentation layers
 
 The project was designed to scale and potentially evolve into a Kotlin Multiplatform app.
-
----
-
-## 📈 Product Journey
-- Started development: November 2024
-- Released on Google Play
-- Reached 350+ users
-- Implemented subscriptions & analytics
-- Ran marketing experiments
-- Collected real-world usage feedback
-
-The app was removed from Google Play after new developer identity verification requirements required public physical address disclosure.
-
-Rather than comply, I chose to distribute the app independently.
-
-Habitsss remains fully functional and free.
 
 ---
 
