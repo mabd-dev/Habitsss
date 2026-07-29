@@ -5,6 +5,12 @@ This project follows Semantic Versioning.
 
 # 0.7.x - NFC Support
 
+## 0.7.5 - 2026-07-29
+
+### Changes
+
+- Fix: if device does not support NFC, don't show nfc buton in settings screen
+
 ## 0.7.4 - 2026-07-23
 
 ### Changes
