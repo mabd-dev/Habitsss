@@ -5,6 +5,17 @@ This project follows Semantic Versioning.
 
 # 0.7.x - NFC Support
 
+## 0.7.6 - 2026-08-18
+
+### Changes
+
+- You can now switch board styles right from the home screen — no need to dig into settings
+
+### Fixes
+
+- Fixed reminder buttons ("Save"/"Delete") not showing on some devices with larger font sizes
+- Fixed board reminders that could fail to fire after the app was closed
+
 ## 0.7.5 - 2026-07-29
 
 ### Changes
