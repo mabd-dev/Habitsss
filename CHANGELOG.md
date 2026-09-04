@@ -5,7 +5,7 @@ This project follows Semantic Versioning.
 
 # 0.7.x - NFC Support
 
-## 0.7.6 - 2026-09-04
+## 0.7.7 - 2026-09-04
 
 ### What's New
 
