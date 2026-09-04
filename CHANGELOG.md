@@ -5,6 +5,16 @@ This project follows Semantic Versioning.
 
 # 0.7.x - NFC Support
 
+## 0.7.6 - 2026-09-04
+
+### What's New
+
+- **Log a custom amount from your notification** — reminder notifications now have a "Custom amount" button, so you can log exactly how much you did without opening the app
+
+### Fixes
+
+- Tapping an nfc notification now opens that board's detail screen instead of doing nothing.
+
 ## 0.7.6 - 2026-08-18
 
 ### Changes
