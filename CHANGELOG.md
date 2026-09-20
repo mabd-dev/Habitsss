@@ -5,6 +5,18 @@ This project follows Semantic Versioning.
 
 # 0.7.x - NFC Support
 
+## 0.7.8 - 2026-09-20
+
+### What's new
+
+- Daily and weekly reminders: set habit reminders that repeat every day or every week.
+- Skip onboarding: jump straight to creating your first board.
+
+### Fixes
+
+- Save and Delete buttons in the reminder sheet no longer get cut off with large text, in landscape, on small screens, or when the keyboard is open.
+- Under-the-hood improvements.
+
 ## 0.7.7 - 2026-09-04
 
 ### What's New
