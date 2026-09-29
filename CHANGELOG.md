@@ -5,18 +5,18 @@ This project follows Semantic Versioning.
 
 # Unreleased
 
-# 🎉 Habitsss 1.0 - 2026-09-29
+## 1.0.0 - 2026-09-30
 
 This is the biggest Habitsss release so far, bringing a complete visual refresh, internationalization support, improved onboarding, better navigation, and many quality-of-life improvements across the app.
 
-## ✨ New Design
+### ✨ New Design
 
 * Adopted Material 3 Expressive throughout the app
 * Refreshed home screen, settings, buttons, loading states, and animations
 * Improved visual consistency across all screens
 * New expressive transitions and shape morph animations
 
-## 🌍 Internationalization
+### 🌍 Internationalization
 
 * Habitsss is now available in 13 languages:
 
@@ -37,7 +37,7 @@ This is the biggest Habitsss release so far, bringing a complete visual refresh,
 * Improved localization across the entire app
 * Fixed locale-specific statistics formatting issues
 
-## 🚀 Improved User Experience
+### 🚀 Improved User Experience
 
 * Simplified onboarding flow
 * Improved navigation behavior when creating habits and boards
@@ -45,24 +45,24 @@ This is the biggest Habitsss release so far, bringing a complete visual refresh,
 * Improved reminders experience
 * More consistent loading indicators and screen layouts
 
-## 📊 Statistics Improvements
+### 📊 Statistics Improvements
 
 * Fixed statistics displaying incorrect values in some languages
 * Improved date, number, and time formatting
 * Better handling of units and localized content
 
-## ⭐ Feedback & Community
+### ⭐ Feedback & Community
 
 * Native Google Play In-App Review support
 * Added direct access to the Habitsss Discord community
 * Improved feedback collection experience
 
-## ❤️ Support Habitsss
+### ❤️ Support Habitsss
 
 * Added optional "Support Habitsss" tips through Google Play Billing
 * Added quick access to rate the app on Google Play
 
-## 🛠️ Under the Hood
+### 🛠️ Under the Hood
 
 * Large localization and translation infrastructure overhaul
 * Improved Play Store listing generation and localization workflow
