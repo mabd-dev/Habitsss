@@ -3,6 +3,75 @@
 All notable changes to this project will be documented in this file.
 This project follows Semantic Versioning.
 
+# Unreleased
+
+# 🎉 Habitsss 1.0 - 2026-09-29
+
+This is the biggest Habitsss release so far, bringing a complete visual refresh, internationalization support, improved onboarding, better navigation, and many quality-of-life improvements across the app.
+
+## ✨ New Design
+
+* Adopted Material 3 Expressive throughout the app
+* Refreshed home screen, settings, buttons, loading states, and animations
+* Improved visual consistency across all screens
+* New expressive transitions and shape morph animations
+
+## 🌍 Internationalization
+
+* Habitsss is now available in 13 languages:
+
+  * Arabic
+  * German
+  * Spanish
+  * French
+  * Hindi
+  * Indonesian
+  * Italian
+  * Japanese
+  * Korean
+  * Portuguese (Brazil)
+  * Russian
+  * Turkish
+  * English
+* Added an in-app language selector
+* Improved localization across the entire app
+* Fixed locale-specific statistics formatting issues
+
+## 🚀 Improved User Experience
+
+* Simplified onboarding flow
+* Improved navigation behavior when creating habits and boards
+* Added better empty states throughout the app
+* Improved reminders experience
+* More consistent loading indicators and screen layouts
+
+## 📊 Statistics Improvements
+
+* Fixed statistics displaying incorrect values in some languages
+* Improved date, number, and time formatting
+* Better handling of units and localized content
+
+## ⭐ Feedback & Community
+
+* Native Google Play In-App Review support
+* Added direct access to the Habitsss Discord community
+* Improved feedback collection experience
+
+## ❤️ Support Habitsss
+
+* Added optional "Support Habitsss" tips through Google Play Billing
+* Added quick access to rate the app on Google Play
+
+## 🛠️ Under the Hood
+
+* Large localization and translation infrastructure overhaul
+* Improved Play Store listing generation and localization workflow
+* Better analytics and language usage tracking
+* Numerous bug fixes, performance improvements, and internal refactoring
+
+Thank you to everyone using Habitsss and helping shape the project. Version 1.0 is an important milestone, and there's much more planned ahead.
+
+
 # 0.7.x - NFC Support
 
 ## 0.7.8 - 2026-09-20
