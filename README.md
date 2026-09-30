@@ -1,20 +1,29 @@
-# Habitsss – Habit Tracker (Android)
+<p align="center">
+  <img src="./screenshots/hero.png" alt="Habitsss – build habits that stick">
+</p>
 
-<div align="center">
-  <img src="./assets/app-icon.png" alt="App Icon" width="120">
-</div>
+<h1 align="center">Habitsss – Habit Tracker (Android)</h1>
 
-[![Download](https://img.shields.io/badge/download-latest%20apk-blue)](../../releases/latest)
-[![Changelog](https://img.shields.io/badge/changelog-available-green)](CHANGELOG.md)
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.mabd.habittracker"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="64"></a>
+</p>
+
+<p align="center">
+  <a href="../../releases/latest"><img src="https://img.shields.io/badge/download-latest%20apk-blue" alt="Download"></a>
+  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/changelog-available-green" alt="Changelog"></a>
+</p>
 <!--![Kotlin](https://img.shields.io/badge/Kotlin-Android-blue)-->
 <!--![Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-brightgreen)-->
 <!--![Architecture](https://img.shields.io/badge/Architecture-MVVM-orange)-->
 
 <p align="center">
-  <img src="./screenshots/app-showcase.jpg">
+  Habitsss is a modern native Android habit tracker focused on streaks, analytics, and long-term consistency.
 </p>
 
-Habitsss is a modern native Android habit tracker focused on streaks, analytics, and long-term consistency.
+<p align="center">
+  <img src="./screenshots/gallery-1.png" alt="Build habits, unlimited boards, NFC logging, custom styles">
+  <img src="./screenshots/gallery-2.png" alt="Analytics, sync, customization, all features">
+</p>
 
 <!-- Originally launched on Google Play in November 2024, the app reached 350+ active users and included subscription-based features before the Play Store account was suspended due to updated identity verification requirements.
 
