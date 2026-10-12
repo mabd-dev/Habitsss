@@ -5,6 +5,17 @@ This project follows Semantic Versioning.
 
 # Unreleased
 
+
+## 1.1.0 - 2026-10-12
+
+• New account card in Settings with your Google profile and cloud sync
+• More reliable cloud sync that tells you when an upload fails
+• Archiving or restoring a board now syncs correctly
+• Removed the "New update available" popup
+• New way to support Habitsss with a coffee
+• Fixed cut-off buttons in the feedback dialog
+• Bug fixes and improvements
+
 ## 1.0.0 - 2026-09-30
 
 This is the biggest Habitsss release so far, bringing a complete visual refresh, internationalization support, improved onboarding, better navigation, and many quality-of-life improvements across the app.
