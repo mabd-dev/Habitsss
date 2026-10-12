@@ -6,6 +6,10 @@ This project follows Semantic Versioning.
 # Unreleased
 
 
+## 1.1.1 - 2026-10-12
+
+• Internal fixes
+
 ## 1.1.0 - 2026-10-12
 
 • New account card in Settings with your Google profile and cloud sync
