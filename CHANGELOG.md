@@ -6,6 +6,14 @@ This project follows Semantic Versioning.
 # Unreleased
 
 
+## 1.2.0 - 2026-10-28
+
+• Tablet support: on wide landscape screens, Home boards and Settings open side by side, with a draggable divider and a navigation rail instead of the bottom bar
+• Archiving a board is more reliable
+• Boards can't be tapped by accident while reordering
+• Smoother decimal entry in precise log
+• Improved TalkBack descriptions
+
 ## 1.1.1 - 2026-10-12
 
 • Internal fixes
