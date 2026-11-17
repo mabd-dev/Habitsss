@@ -6,6 +6,12 @@ This project follows Semantic Versioning.
 # Unreleased
 
 
+## 1.2.1 - 2026-11-17
+
+- Logging a past day no longer saves it to the day before in some time zones
+- The precise log date picker no longer blocks later days after you pick a past date
+- Bug fixes and improveme
+
 ## 1.2.0 - 2026-10-28
 
 • Tablet support: on wide landscape screens, Home boards and Settings open side by side, with a draggable divider and a navigation rail instead of the bottom bar
