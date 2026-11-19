@@ -6,6 +6,11 @@ This project follows Semantic Versioning.
 # Unreleased
 
 
+## 1.3.0 - 2026-11-19
+
+- New single board widget: pin the habit that matters most and log it with one tap, without opening the app
+- Bug fixes and improvements.
+
 ## 1.2.1 - 2026-11-17
 
 - Logging a past day no longer saves it to the day before in some time zones
@@ -14,11 +19,11 @@ This project follows Semantic Versioning.
 
 ## 1.2.0 - 2026-10-28
 
-• Tablet support: on wide landscape screens, Home boards and Settings open side by side, with a draggable divider and a navigation rail instead of the bottom bar
-• Archiving a board is more reliable
-• Boards can't be tapped by accident while reordering
-• Smoother decimal entry in precise log
-• Improved TalkBack descriptions
+- Tablet support: on wide landscape screens, Home boards and Settings open side by side, with a draggable divider and a navigation rail instead of the bottom bar
+- Archiving a board is more reliable
+- Boards can't be tapped by accident while reordering
+- Smoother decimal entry in precise log
+- Improved TalkBack descriptions
 
 ## 1.1.1 - 2026-10-12
 
@@ -26,13 +31,13 @@ This project follows Semantic Versioning.
 
 ## 1.1.0 - 2026-10-12
 
-• New account card in Settings with your Google profile and cloud sync
-• More reliable cloud sync that tells you when an upload fails
-• Archiving or restoring a board now syncs correctly
-• Removed the "New update available" popup
-• New way to support Habitsss with a coffee
-• Fixed cut-off buttons in the feedback dialog
-• Bug fixes and improvements
+- New account card in Settings with your Google profile and cloud sync
+- More reliable cloud sync that tells you when an upload fails
+- M Archiving or restoring a board now syncs correctly
+- M Removed the "New update available" popup
+- M New way to support Habitsss with a coffee
+- M Fixed cut-off buttons in the feedback dialog
+- M Bug fixes and improvements
 
 ## 1.0.0 - 2026-09-30
 
