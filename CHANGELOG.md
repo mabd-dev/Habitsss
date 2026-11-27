@@ -5,6 +5,12 @@ This project follows Semantic Versioning.
 
 # Unreleased
 
+## 1.4.0 - 2026-11-27
+
+- Export and import no longer crash after you rotate the screen or come back to the app
+- In landscape, screens no longer sit under the navigation buttons
+- Bug fixes and improvements
+
 ## 1.3.1 - 2026-11-26
 
 - Importing a file the app can't read no longer makes it crash on every launch: your habits stay as they were
