@@ -5,6 +5,11 @@ This project follows Semantic Versioning.
 
 # Unreleased
 
+## 1.3.1 - 2026-11-26
+
+- Importing a file the app can't read no longer makes it crash on every launch: your habits stay as they were
+- A failed import now tells you why, and lets you send us the file so we can help
+- Bug fixes and improvements
 
 ## 1.3.0 - 2026-11-19
 
